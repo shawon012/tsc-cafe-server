@@ -1,0 +1,66 @@
+[
+    {
+        "chef-picture": "https://images.unsplash.com/photo-1631212500544-e32a879267f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZiUyMHBob3RvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "John Smith",
+        "chef-id": "1",
+        "year-of-experience": 10,
+        "number-of-recipes": 50,
+        "likes": 100
+    },
+    {
+        "chef-picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "Jane Doe",
+        "chef-id": "2",
+        "year-of-experience": 5,
+        "number-of-recipes": 20,
+        "likes": 50
+    },
+    {
+        "chef-picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "Bob Johnson",
+        "chef-id": "3",
+        "year-of-experience": 3,
+        "number-of-recipes": 10,
+        "likes": 30
+    },
+    {
+        "chef-picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "Sara Lee",
+        "chef-id": "4",
+        "year-of-experience": 8,
+        "number-of-recipes": 40,
+        "likes": 80
+    },
+    {
+        "chef-picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "David Kim",
+        "chef-id": "5",
+        "year-of-experience": 2,
+        "number-of-recipes": 5,
+        "likes": 10
+    },
+    {
+        "chef-picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "Amanda Chen",
+        "chef-id": "6",
+        "year-of-experience": 7,
+        "number-of-recipes": 30,
+        "likes": 70
+    },
+    {
+        "chef-picture": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "Tom Wilson",
+        "chef-id": "7",
+        "year-of-experience": 12,
+        "number-of-recipes": 80,
+        "likes": 150
+    },
+    {
+        "chef-picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chef-name": "Linda Huang",
+        "chef-id": "8",
+        "year-of-experience": 4,
+        "number-of-recipes": 15,
+        "likes": 40
+    }
+]
