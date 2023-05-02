@@ -1,0 +1,418 @@
+[
+    {
+        "recipe-name": "Classic Cheeseburger",
+        "ingredients": [
+            "ground beef",
+            "salt",
+            "pepper",
+            "American cheese",
+            "hamburger buns"
+        ],
+        "cooking-method": "grilling",
+        "rating": 4.5,
+        "id": 1
+    },
+    {
+        "recipe-name": "Fried Chicken",
+        "ingredients": [
+            "chicken pieces",
+            "buttermilk",
+            "flour",
+            "salt",
+            "pepper"
+        ],
+        "cooking-method": "deep frying",
+        "rating": 4.2,
+        "id": 1
+    },
+    {
+        "recipe-name": "Mac and Cheese",
+        "ingredients": [
+            "macaroni",
+            "butter",
+            "flour",
+            "milk",
+            "cheddar cheese"
+        ],
+        "cooking-method": "baking",
+        "rating": 4.7,
+        "id": 1
+    },
+    {
+        "recipe-name": "BBQ Ribs",
+        "ingredients": [
+            "pork ribs",
+            "barbecue sauce",
+            "brown sugar",
+            "smoked paprika",
+            "garlic powder"
+        ],
+        "cooking-method": "slow cooking and grilling",
+        "rating": 4.4,
+        "id": 1
+    },
+    {
+        "recipe-name": "Chili Con Carne",
+        "ingredients": [
+            "ground beef",
+            "onion",
+            "bell pepper",
+            "garlic",
+            "tomato paste"
+        ],
+        "cooking-method": "stovetop simmering",
+        "rating": 4.2,
+        "id": 2
+    },
+    {
+        "recipe-name": "Fried Catfish",
+        "ingredients": [
+            "catfish fillets",
+            "cornmeal",
+            "flour",
+            "salt",
+            "pepper"
+        ],
+        "cooking-method": "deep frying",
+        "rating": 4.3,
+        "id": 2
+    },
+    {
+        "recipe-name": "Caesar Salad",
+        "ingredients": [
+            "romaine lettuce",
+            "croutons",
+            "parmesan cheese",
+            "lemon juice",
+            "olive oil"
+        ],
+        "cooking-method": "tossing",
+        "rating": 4.6,
+        "id": 2
+    },
+    {
+        "recipe-name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "onion",
+            "mushrooms",
+            "sour cream",
+            "beef broth"
+        ],
+        "cooking-method": "stovetop simmering",
+        "rating": 4.7,
+        "id": 2
+    },
+    {
+        "recipe-name": "Grilled Steak",
+        "ingredients": [
+            "beef steak",
+            "olive oil",
+            "salt",
+            "pepper",
+            "rosemary"
+        ],
+        "cooking-method": "grilling",
+        "rating": 4.6,
+        "id": 3
+    },
+    {
+        "recipe-name": "Buffalo Chicken Wings",
+        "ingredients": [
+            "chicken wings",
+            "butter",
+            "hot sauce",
+            "garlic powder",
+            "salt"
+        ],
+        "cooking-method": "deep frying",
+        "rating": 4.9,
+        "id": 3
+    },
+    {
+        "recipe-name": "Potato Salad",
+        "ingredients": [
+            "potatoes",
+            "mayonnaise",
+            "mustard",
+            "celery",
+            "red onion"
+        ],
+        "cooking-method": "boiling and mixing",
+        "rating": 4.3,
+        "id": 3
+    },
+    {
+        "recipe-name": "Shrimp Po'Boy Sandwich",
+        "ingredients": [
+            "shrimp",
+            "lettuce",
+            "tomato",
+            "mayonnaise",
+            "baguette"
+        ],
+        "cooking-method": "frying and assembling",
+        "rating": 4.7,
+        "id": 3
+    },
+    {
+        "recipe-name": "Pulled Pork Sandwich",
+        "ingredients": [
+            "pork shoulder",
+            "bbq sauce",
+            "cider vinegar",
+            "brown sugar",
+            "hamburger bun"
+        ],
+        "cooking-method": "slow cooking",
+        "rating": 4.8,
+        "id": 4
+    },
+    {
+        "recipe-name": "Fried Chicken",
+        "ingredients": [
+            "chicken",
+            "flour",
+            "buttermilk",
+            "paprika",
+            "garlic powder"
+        ],
+        "cooking-method": "deep frying",
+        "rating": 4.7,
+        "id": 4
+    },
+    {
+        "recipe-name": "Mac and Cheese",
+        "ingredients": [
+            "macaroni",
+            "cheddar cheese",
+            "milk",
+            "butter",
+            "bread crumbs"
+        ],
+        "cooking-method": "boiling and baking",
+        "rating": 4.5,
+        "id": 4
+    },
+    {
+        "recipe-name": "BBQ Ribs",
+        "ingredients": [
+            "pork ribs",
+            "bbq sauce",
+            "brown sugar",
+            "paprika",
+            "garlic powder"
+        ],
+        "cooking-method": "slow cooking and grilling",
+        "rating": 4.9,
+        "id": 4
+    },
+    {
+        "recipe-name": "Steak with Garlic Butter",
+        "ingredients": [
+            "ribeye steak",
+            "garlic",
+            "butter",
+            "rosemary",
+            "salt"
+        ],
+        "cooking-method": "grilling",
+        "rating": 4.9,
+        "id": 5
+    },
+    {
+        "recipe-name": "Chicken Alfredo",
+        "ingredients": [
+            "chicken breasts",
+            "fettuccine pasta",
+            "heavy cream",
+            "Parmesan cheese",
+            "garlic"
+        ],
+        "cooking-method": "pan-frying and boiling",
+        "rating": 4.7,
+        "id": 5
+    },
+    {
+        "recipe-name": "Shrimp Po' Boy",
+        "ingredients": [
+            "shrimp",
+            "mayonnaise",
+            "lettuce",
+            "tomato",
+            "French bread"
+        ],
+        "cooking-method": "pan-frying",
+        "rating": 4.6,
+        "id": 5
+    },
+    {
+        "recipe-name": "BBQ Chicken Pizza",
+        "ingredients": [
+            "pizza dough",
+            "bbq sauce",
+            "mozzarella cheese",
+            "chicken",
+            "red onion"
+        ],
+        "cooking-method": "baking",
+        "rating": 4.5,
+        "id": 5
+    },
+    {
+        "recipe-name": "Grilled Salmon with Lemon Butter Sauce",
+        "ingredients": [
+            "salmon fillets",
+            "lemon",
+            "butter",
+            "olive oil",
+            "salt"
+        ],
+        "cooking-method": "grilling",
+        "rating": 4.8,
+        "id": 6
+    },
+    {
+        "recipe-name": "Bacon-Wrapped Meatloaf",
+        "ingredients": [
+            "ground beef",
+            "bacon",
+            "breadcrumbs",
+            "egg",
+            "ketchup"
+        ],
+        "cooking-method": "baking",
+        "rating": 4.6,
+        "id": 6
+    },
+    {
+        "recipe-name": "Buffalo Chicken Dip",
+        "ingredients": [
+            "chicken breast",
+            "cream cheese",
+            "ranch dressing",
+            "hot sauce",
+            "cheddar cheese"
+        ],
+        "cooking-method": "baking",
+        "rating": 4.7,
+        "id": 6
+    },
+    {
+        "recipe-name": "Baked Mac and Cheese",
+        "ingredients": [
+            "elbow macaroni",
+            "cheddar cheese",
+            "butter",
+            "flour",
+            "milk"
+        ],
+        "cooking-method": "baking",
+        "rating": 4.5,
+        "id": 6
+    },
+    {
+        "recipe-name": "Slow Cooker Beef Stew",
+        "ingredients": [
+            "beef stew meat",
+            "carrots",
+            "potatoes",
+            "onion",
+            "beef broth"
+        ],
+        "cooking-method": "slow cooking",
+        "rating": 4.5,
+        "id": 7
+    },
+    {
+        "recipe-name": "Fried Chicken",
+        "ingredients": [
+            "chicken thighs",
+            "flour",
+            "buttermilk",
+            "spices",
+            "oil"
+        ],
+        "cooking-method": "frying",
+        "rating": 4.7,
+        "id": 7
+    },
+    {
+        "recipe-name": "Potato Salad",
+        "ingredients": [
+            "potatoes",
+            "mayonnaise",
+            "mustard",
+            "celery",
+            "red onion"
+        ],
+        "cooking-method": "boiling",
+        "rating": 4.3,
+        "id": 7
+    },
+    {
+        "recipe-name": "BBQ Ribs",
+        "ingredients": [
+            "pork ribs",
+            "bbq sauce",
+            "brown sugar",
+            "apple cider vinegar",
+            "spices"
+        ],
+        "cooking-method": "grilling",
+        "rating": 4.8,
+        "id": 7
+    },
+    {
+        "recipe-name": "Grilled Salmon",
+        "ingredients": [
+            "salmon fillet",
+            "olive oil",
+            "lemon",
+            "garlic",
+            "salt"
+        ],
+        "cooking-method": "grilling",
+        "rating": 4.6,
+        "id": 8
+    },
+    {
+        "recipe-name": "Mac and Cheese",
+        "ingredients": [
+            "macaroni",
+            "cheddar cheese",
+            "milk",
+            "butter",
+            "flour"
+        ],
+        "cooking-method": "baking",
+        "rating": 4.4,
+        "id": 8
+    },
+    {
+        "recipe-name": "Burger",
+        "ingredients": [
+            "ground beef",
+            "buns",
+            "lettuce",
+            "tomato",
+            "onion"
+        ],
+        "cooking-method": "grilling",
+        "rating": 4.7,
+        "id": 8
+    },
+    {
+        "recipe-name": "Buffalo Wings",
+        "ingredients": [
+            "chicken wings",
+            "hot sauce",
+            "butter",
+            "garlic powder",
+            "paprika"
+        ],
+        "cooking-method": "baking/frying",
+        "rating": 4.9,
+        "id": 8
+    }
+]
