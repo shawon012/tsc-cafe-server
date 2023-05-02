@@ -5,7 +5,8 @@
         "chef-id": "1",
         "year-of-experience": 10,
         "number-of-recipes": 50,
-        "likes": 100
+        "likes": 100,
+        "short-bio": "John Smith is a classically trained chef with over 10 years of experience in the culinary industry. He specializes in French cuisine and has a passion for creating innovative dishes that combine traditional techniques with modern flavors."
     },
     {
         "chef-picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
@@ -13,7 +14,8 @@
         "chef-id": "2",
         "year-of-experience": 5,
         "number-of-recipes": 20,
-        "likes": 50
+        "likes": 50,
+        "short-bio": "Jane Doe is a self-taught chef who has been cooking since she was a child. She has a knack for creating simple yet delicious dishes that are perfect for any occasion. Her passion for food shines through in every recipe she creates."
     },
     {
         "chef-picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -21,7 +23,8 @@
         "chef-id": "3",
         "year-of-experience": 3,
         "number-of-recipes": 10,
-        "likes": 30
+        "likes": 30,
+        "short-bio": "Bob Johnson is a chef who specializes in plant-based cuisine. He believes that food can be both healthy and delicious, and he strives to create dishes that are both nutritious and flavorful. His recipes are inspired by flavors from around the world."
     },
     {
         "chef-picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -29,7 +32,8 @@
         "chef-id": "4",
         "year-of-experience": 8,
         "number-of-recipes": 40,
-        "likes": 80
+        "likes": 80,
+        "short-bio": "Sara Lee is a pastry chef who has been working in the industry for over 8 years. She has a passion for creating desserts that are both beautiful and delicious. Her specialties include French pastries, cakes, and tarts."
     },
     {
         "chef-picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -37,7 +41,8 @@
         "chef-id": "5",
         "year-of-experience": 2,
         "number-of-recipes": 5,
-        "likes": 10
+        "likes": 10,
+        "short-bio": "David Kim is a chef who has a passion for creating simple, healthy meals. He believes that food should be both delicious and nutritious, and he strives to create dishes that are both flavorful and healthy. His specialties include Korean and Japanese cuisine."
     },
     {
         "chef-picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -45,7 +50,8 @@
         "chef-id": "6",
         "year-of-experience": 7,
         "number-of-recipes": 30,
-        "likes": 70
+        "likes": 70,
+        "short-bio": "Amanda Chen is a chef who has a passion for creating comfort food with a twist. She takes classic dishes and adds her own unique twist to create something new and exciting. Her specialties include American and Italian cuisine."
     },
     {
         "chef-picture": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -53,7 +59,8 @@
         "chef-id": "7",
         "year-of-experience": 12,
         "number-of-recipes": 80,
-        "likes": 150
+        "likes": 150,
+        "short-bio": "Tom Wilson is a seasoned chef with over 12 years of experience in the culinary industry. He specializes in French cuisine and is known for his ability to create complex dishes with layers of flavor. He is passionate about using local, seasonal ingredients to create dishes that are both delicious and sustainable."
     },
     {
         "chef-picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -61,6 +68,7 @@
         "chef-id": "8",
         "year-of-experience": 4,
         "number-of-recipes": 15,
-        "likes": 40
+        "likes": 40,
+        "short-bio": "Linda Huang is a rising star in the culinary world. Despite having only 4 years of experience, she has already made a name for herself with her inventive and playful approach to cooking. She is passionate about exploring different cultures and cuisines, and loves to incorporate unexpected flavors and ingredients into her dishes."
     }
 ]
