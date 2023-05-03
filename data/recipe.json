@@ -1,6 +1,6 @@
 [
     {
-        "recipe-name": "Classic Cheeseburger",
+        "recipe_name": "Classic Cheeseburger",
         "ingredients": [
             "ground beef",
             "salt",
@@ -8,14 +8,14 @@
             "American cheese",
             "hamburger buns"
         ],
-        "cooking-method": "grilling",
+        "cooking_method": "grilling",
         "rating": 4.5,
         "id": 11,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":1
     },
     {
-        "recipe-name": "Fried Chicken",
+        "recipe_name": "Fried Chicken",
         "ingredients": [
             "chicken pieces",
             "buttermilk",
@@ -23,14 +23,14 @@
             "salt",
             "pepper"
         ],
-        "cooking-method": "deep frying",
+        "cooking_method": "deep frying",
         "rating": 4.2,
         "id": 12,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":1
     },
     {
-        "recipe-name": "Mac and Cheese",
+        "recipe_name": "Mac and Cheese",
         "ingredients": [
             "macaroni",
             "butter",
@@ -38,14 +38,14 @@
             "milk",
             "cheddar cheese"
         ],
-        "cooking-method": "baking",
+        "cooking_method": "baking",
         "rating": 4.7,
         "id": 13,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":1
     },
     {
-        "recipe-name": "BBQ Ribs",
+        "recipe_name": "BBQ Ribs",
         "ingredients": [
             "pork ribs",
             "barbecue sauce",
@@ -53,14 +53,14 @@
             "smoked paprika",
             "garlic powder"
         ],
-        "cooking-method": "slow cooking and grilling",
+        "cooking_method": "slow cooking and grilling",
         "rating": 4.4,
         "id": 14,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":1
     },
     {
-        "recipe-name": "Chili Con Carne",
+        "recipe_name": "Chili Con Carne",
         "ingredients": [
             "ground beef",
             "onion",
@@ -68,14 +68,14 @@
             "garlic",
             "tomato paste"
         ],
-        "cooking-method": "stovetop simmering",
+        "cooking_method": "stovetop simmering",
         "rating": 4.2,
         "id": 21,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":2
     },
     {
-        "recipe-name": "Fried Catfish",
+        "recipe_name": "Fried Catfish",
         "ingredients": [
             "catfish fillets",
             "cornmeal",
@@ -83,14 +83,14 @@
             "salt",
             "pepper"
         ],
-        "cooking-method": "deep frying",
+        "cooking_method": "deep frying",
         "rating": 4.3,
         "id": 22,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":2
     },
     {
-        "recipe-name": "Caesar Salad",
+        "recipe_name": "Caesar Salad",
         "ingredients": [
             "romaine lettuce",
             "croutons",
@@ -98,14 +98,14 @@
             "lemon juice",
             "olive oil"
         ],
-        "cooking-method": "tossing",
+        "cooking_method": "tossing",
         "rating": 4.6,
         "id": 23,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":2
     },
     {
-        "recipe-name": "Beef Stroganoff",
+        "recipe_name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
             "onion",
@@ -113,14 +113,14 @@
             "sour cream",
             "beef broth"
         ],
-        "cooking-method": "stovetop simmering",
+        "cooking_method": "stovetop simmering",
         "rating": 4.7,
         "id": 24,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":2
     },
     {
-        "recipe-name": "Grilled Steak",
+        "recipe_name": "Grilled Steak",
         "ingredients": [
             "beef steak",
             "olive oil",
@@ -128,14 +128,14 @@
             "pepper",
             "rosemary"
         ],
-        "cooking-method": "grilling",
+        "cooking_method": "grilling",
         "rating": 4.6,
         "id": 31,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":3
     },
     {
-        "recipe-name": "Buffalo Chicken Wings",
+        "recipe_name": "Buffalo Chicken Wings",
         "ingredients": [
             "chicken wings",
             "butter",
@@ -143,14 +143,14 @@
             "garlic powder",
             "salt"
         ],
-        "cooking-method": "deep frying",
+        "cooking_method": "deep frying",
         "rating": 4.9,
         "id": 32,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":3
     },
     {
-        "recipe-name": "Potato Salad",
+        "recipe_name": "Potato Salad",
         "ingredients": [
             "potatoes",
             "mayonnaise",
@@ -158,14 +158,14 @@
             "celery",
             "red onion"
         ],
-        "cooking-method": "boiling and mixing",
+        "cooking_method": "boiling and mixing",
         "rating": 4.3,
         "id": 33,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":3
     },
     {
-        "recipe-name": "Shrimp Po'Boy Sandwich",
+        "recipe_name": "Shrimp Po'Boy Sandwich",
         "ingredients": [
             "shrimp",
             "lettuce",
@@ -173,14 +173,14 @@
             "mayonnaise",
             "baguette"
         ],
-        "cooking-method": "frying and assembling",
+        "cooking_method": "frying and assembling",
         "rating": 4.7,
         "id": 34,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":3
     },
     {
-        "recipe-name": "Pulled Pork Sandwich",
+        "recipe_name": "Pulled Pork Sandwich",
         "ingredients": [
             "pork shoulder",
             "bbq sauce",
@@ -188,14 +188,14 @@
             "brown sugar",
             "hamburger bun"
         ],
-        "cooking-method": "slow cooking",
+        "cooking_method": "slow cooking",
         "rating": 4.8,
         "id": 41,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":4
     },
     {
-        "recipe-name": "Fried Chicken",
+        "recipe_name": "Fried Chicken",
         "ingredients": [
             "chicken",
             "flour",
@@ -203,14 +203,14 @@
             "paprika",
             "garlic powder"
         ],
-        "cooking-method": "deep frying",
+        "cooking_method": "deep frying",
         "rating": 4.7,
         "id": 42,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":4
     },
     {
-        "recipe-name": "Mac and Cheese",
+        "recipe_name": "Mac and Cheese",
         "ingredients": [
             "macaroni",
             "cheddar cheese",
@@ -218,14 +218,14 @@
             "butter",
             "bread crumbs"
         ],
-        "cooking-method": "boiling and baking",
+        "cooking_method": "boiling and baking",
         "rating": 4.5,
         "id": 43,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":4
     },
     {
-        "recipe-name": "BBQ Ribs",
+        "recipe_name": "BBQ Ribs",
         "ingredients": [
             "pork ribs",
             "bbq sauce",
@@ -233,14 +233,14 @@
             "paprika",
             "garlic powder"
         ],
-        "cooking-method": "slow cooking and grilling",
+        "cooking_method": "slow cooking and grilling",
         "rating": 4.9,
         "id": 44,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":4
     },
     {
-        "recipe-name": "Steak with Garlic Butter",
+        "recipe_name": "Steak with Garlic Butter",
         "ingredients": [
             "ribeye steak",
             "garlic",
@@ -248,14 +248,14 @@
             "rosemary",
             "salt"
         ],
-        "cooking-method": "grilling",
+        "cooking_method": "grilling",
         "rating": 4.9,
         "id": 51,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":5
     },
     {
-        "recipe-name": "Chicken Alfredo",
+        "recipe_name": "Chicken Alfredo",
         "ingredients": [
             "chicken breasts",
             "fettuccine pasta",
@@ -263,14 +263,14 @@
             "Parmesan cheese",
             "garlic"
         ],
-        "cooking-method": "pan-frying and boiling",
+        "cooking_method": "pan-frying and boiling",
         "rating": 4.7,
         "id": 52,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":5
     },
     {
-        "recipe-name": "Shrimp Po' Boy",
+        "recipe_name": "Shrimp Po' Boy",
         "ingredients": [
             "shrimp",
             "mayonnaise",
@@ -278,14 +278,14 @@
             "tomato",
             "French bread"
         ],
-        "cooking-method": "pan-frying",
+        "cooking_method": "pan-frying",
         "rating": 4.6,
         "id": 53,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":5
     },
     {
-        "recipe-name": "BBQ Chicken Pizza",
+        "recipe_name": "BBQ Chicken Pizza",
         "ingredients": [
             "pizza dough",
             "bbq sauce",
@@ -293,14 +293,14 @@
             "chicken",
             "red onion"
         ],
-        "cooking-method": "baking",
+        "cooking_method": "baking",
         "rating": 4.5,
         "id": 54,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":5
     },
     {
-        "recipe-name": "Grilled Salmon with Lemon Butter Sauce",
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
         "ingredients": [
             "salmon fillets",
             "lemon",
@@ -308,14 +308,14 @@
             "olive oil",
             "salt"
         ],
-        "cooking-method": "grilling",
+        "cooking_method": "grilling",
         "rating": 4.8,
         "id": 61,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":6
     },
     {
-        "recipe-name": "Bacon-Wrapped Meatloaf",
+        "recipe_name": "Bacon-Wrapped Meatloaf",
         "ingredients": [
             "ground beef",
             "bacon",
@@ -323,14 +323,14 @@
             "egg",
             "ketchup"
         ],
-        "cooking-method": "baking",
+        "cooking_method": "baking",
         "rating": 4.6,
         "id": 62,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":6
     },
     {
-        "recipe-name": "Buffalo Chicken Dip",
+        "recipe_name": "Buffalo Chicken Dip",
         "ingredients": [
             "chicken breast",
             "cream cheese",
@@ -338,14 +338,14 @@
             "hot sauce",
             "cheddar cheese"
         ],
-        "cooking-method": "baking",
+        "cooking_method": "baking",
         "rating": 4.7,
         "id": 63,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":6
     },
     {
-        "recipe-name": "Baked Mac and Cheese",
+        "recipe_name": "Baked Mac and Cheese",
         "ingredients": [
             "elbow macaroni",
             "cheddar cheese",
@@ -353,14 +353,14 @@
             "flour",
             "milk"
         ],
-        "cooking-method": "baking",
+        "cooking_method": "baking",
         "rating": 4.5,
         "id": 64,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":6
     },
     {
-        "recipe-name": "Slow Cooker Beef Stew",
+        "recipe_name": "Slow Cooker Beef Stew",
         "ingredients": [
             "beef stew meat",
             "carrots",
@@ -368,14 +368,14 @@
             "onion",
             "beef broth"
         ],
-        "cooking-method": "slow cooking",
+        "cooking_method": "slow cooking",
         "rating": 4.5,
         "id": 71,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":7
     },
     {
-        "recipe-name": "Fried Chicken",
+        "recipe_name": "Fried Chicken",
         "ingredients": [
             "chicken thighs",
             "flour",
@@ -383,14 +383,14 @@
             "spices",
             "oil"
         ],
-        "cooking-method": "frying",
+        "cooking_method": "frying",
         "rating": 4.7,
         "id": 72,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":7
     },
     {
-        "recipe-name": "Potato Salad",
+        "recipe_name": "Potato Salad",
         "ingredients": [
             "potatoes",
             "mayonnaise",
@@ -398,14 +398,14 @@
             "celery",
             "red onion"
         ],
-        "cooking-method": "boiling",
+        "cooking_method": "boiling",
         "rating": 4.3,
         "id": 73,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":7
     },
     {
-        "recipe-name": "BBQ Ribs",
+        "recipe_name": "BBQ Ribs",
         "ingredients": [
             "pork ribs",
             "bbq sauce",
@@ -413,14 +413,14 @@
             "apple cider vinegar",
             "spices"
         ],
-        "cooking-method": "grilling",
+        "cooking_method": "grilling",
         "rating": 4.8,
         "id": 74,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":7
     },
     {
-        "recipe-name": "Grilled Salmon",
+        "recipe_name": "Grilled Salmon",
         "ingredients": [
             "salmon fillet",
             "olive oil",
@@ -428,14 +428,14 @@
             "garlic",
             "salt"
         ],
-        "cooking-method": "grilling",
+        "cooking_method": "grilling",
         "rating": 4.6,
         "id": 81,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":8
     },
     {
-        "recipe-name": "Mac and Cheese",
+        "recipe_name": "Mac and Cheese",
         "ingredients": [
             "macaroni",
             "cheddar cheese",
@@ -443,14 +443,14 @@
             "butter",
             "flour"
         ],
-        "cooking-method": "baking",
+        "cooking_method": "baking",
         "rating": 4.4,
         "id": 82,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":8
     },
     {
-        "recipe-name": "Burger",
+        "recipe_name": "Burger",
         "ingredients": [
             "ground beef",
             "buns",
@@ -458,14 +458,14 @@
             "tomato",
             "onion"
         ],
-        "cooking-method": "grilling",
+        "cooking_method": "grilling",
         "rating": 4.7,
         "id": 83,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefrecipe":8
     },
     {
-        "recipe-name": "Buffalo Wings",
+        "recipe_name": "Buffalo Wings",
         "ingredients": [
             "chicken wings",
             "hot sauce",
@@ -473,7 +473,7 @@
             "garlic powder",
             "paprika"
         ],
-        "cooking-method": "baking/frying",
+        "cooking_method": "baking/frying",
         "rating": 4.9,
         "id": 84,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
