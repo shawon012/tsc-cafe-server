@@ -34,14 +34,7 @@
         "rating": 4.2,
         "id": 12,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":1,
-        "chef_picture": "https://images.unsplash.com/photo-1631212500544-e32a879267f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZiUyMHBob3RvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "John Smith",
-        "chef_id": "1",
-        "year_of_experience": 10,
-        "number_of_recipes": 50,
-        "likes": 100,
-        "short_bio": "John Smith is a classically trained chef with over 10 years of experience in the culinary industry. He specializes in French cuisine and has a passion for creating innovative dishes that combine traditional techniques with modern flavors."
+        "chefrecipe":1
     },
     {
         "recipe_name": "Mac and Cheese",
@@ -56,14 +49,7 @@
         "rating": 4.7,
         "id": 13,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":1,
-        "chef_picture": "https://images.unsplash.com/photo-1631212500544-e32a879267f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZiUyMHBob3RvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "John Smith",
-        "chef_id": "1",
-        "year_of_experience": 10,
-        "number_of_recipes": 50,
-        "likes": 100,
-        "short_bio": "John Smith is a classically trained chef with over 10 years of experience in the culinary industry. He specializes in French cuisine and has a passion for creating innovative dishes that combine traditional techniques with modern flavors."
+        "chefrecipe":1
     },
     {
         "recipe_name": "BBQ Ribs",
@@ -78,14 +64,7 @@
         "rating": 4.4,
         "id": 14,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":1,
-        "chef_picture": "https://images.unsplash.com/photo-1631212500544-e32a879267f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZiUyMHBob3RvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "John Smith",
-        "chef_id": "1",
-        "year_of_experience": 10,
-        "number_of_recipes": 50,
-        "likes": 100,
-        "short_bio": "John Smith is a classically trained chef with over 10 years of experience in the culinary industry. He specializes in French cuisine and has a passion for creating innovative dishes that combine traditional techniques with modern flavors."
+        "chefrecipe":1
     },
     {
         "recipe_name": "Chili Con Carne",
@@ -122,14 +101,7 @@
         "rating": 4.3,
         "id": 22,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":2,
-        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Jane Doe",
-        "chef_id": "2",
-        "year_of_experience": 5,
-        "number_of_recipes": 20,
-        "likes": 50,
-        "short_bio": "Jane Doe is a self-taught chef who has been cooking since she was a child. She has a knack for creating simple yet delicious dishes that are perfect for any occasion. Her passion for food shines through in every recipe she creates."
+        "chefrecipe":2
     },
     {
         "recipe_name": "Caesar Salad",
@@ -144,14 +116,7 @@
         "rating": 4.6,
         "id": 23,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":2,
-        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Jane Doe",
-        "chef_id": "2",
-        "year_of_experience": 5,
-        "number_of_recipes": 20,
-        "likes": 50,
-        "short_bio": "Jane Doe is a self-taught chef who has been cooking since she was a child. She has a knack for creating simple yet delicious dishes that are perfect for any occasion. Her passion for food shines through in every recipe she creates."
+        "chefrecipe":2
     },
     {
         "recipe_name": "Beef Stroganoff",
@@ -166,14 +131,7 @@
         "rating": 4.7,
         "id": 24,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":2,
-        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Jane Doe",
-        "chef_id": "2",
-        "year_of_experience": 5,
-        "number_of_recipes": 20,
-        "likes": 50,
-        "short_bio": "Jane Doe is a self-taught chef who has been cooking since she was a child. She has a knack for creating simple yet delicious dishes that are perfect for any occasion. Her passion for food shines through in every recipe she creates."
+        "chefrecipe":2
     },
     {
         "recipe_name": "Grilled Steak",
@@ -210,14 +168,7 @@
         "rating": 4.9,
         "id": 32,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":3,
-        "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Bob Johnson",
-        "chef_id": "3",
-        "year_of_experience": 3,
-        "number_of_recipes": 10,
-        "likes": 30,
-        "short_bio": "Bob Johnson is a chef who specializes in plant-based cuisine. He believes that food can be both healthy and delicious, and he strives to create dishes that are both nutritious and flavorful. His recipes are inspired by flavors from around the world."
+        "chefrecipe":3
     },
     {
         "recipe_name": "Potato Salad",
@@ -232,14 +183,7 @@
         "rating": 4.3,
         "id": 33,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":3,
-        "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Bob Johnson",
-        "chef_id": "3",
-        "year_of_experience": 3,
-        "number_of_recipes": 10,
-        "likes": 30,
-        "short_bio": "Bob Johnson is a chef who specializes in plant-based cuisine. He believes that food can be both healthy and delicious, and he strives to create dishes that are both nutritious and flavorful. His recipes are inspired by flavors from around the world."
+        "chefrecipe":3
     },
     {
         "recipe_name": "Shrimp Po'Boy Sandwich",
@@ -254,14 +198,7 @@
         "rating": 4.7,
         "id": 34,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":3,
-        "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Bob Johnson",
-        "chef_id": "3",
-        "year_of_experience": 3,
-        "number_of_recipes": 10,
-        "likes": 30,
-        "short_bio": "Bob Johnson is a chef who specializes in plant-based cuisine. He believes that food can be both healthy and delicious, and he strives to create dishes that are both nutritious and flavorful. His recipes are inspired by flavors from around the world."
+        "chefrecipe":3
     },
     {
         "recipe_name": "Pulled Pork Sandwich",
@@ -298,14 +235,7 @@
         "rating": 4.7,
         "id": 42,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":4,
-        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Sara Lee",
-        "chef_id": "4",
-        "year_of_experience": 8,
-        "number_of_recipes": 40,
-        "likes": 80,
-        "short_bio": "Sara Lee is a pastry chef who has been working in the industry for over 8 years. She has a passion for creating desserts that are both beautiful and delicious. Her specialties include French pastries, cakes, and tarts."
+        "chefrecipe":4
     },
     {
         "recipe_name": "Mac and Cheese",
@@ -320,14 +250,7 @@
         "rating": 4.5,
         "id": 43,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":4,
-        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Sara Lee",
-        "chef_id": "4",
-        "year_of_experience": 8,
-        "number_of_recipes": 40,
-        "likes": 80,
-        "short_bio": "Sara Lee is a pastry chef who has been working in the industry for over 8 years. She has a passion for creating desserts that are both beautiful and delicious. Her specialties include French pastries, cakes, and tarts."
+        "chefrecipe":4
     },
     {
         "recipe_name": "BBQ Ribs",
@@ -342,14 +265,7 @@
         "rating": 4.9,
         "id": 44,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":4,
-        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Sara Lee",
-        "chef_id": "4",
-        "year_of_experience": 8,
-        "number_of_recipes": 40,
-        "likes": 80,
-        "short_bio": "Sara Lee is a pastry chef who has been working in the industry for over 8 years. She has a passion for creating desserts that are both beautiful and delicious. Her specialties include French pastries, cakes, and tarts."
+        "chefrecipe":4
     },
     {
         "recipe_name": "Steak with Garlic Butter",
@@ -386,14 +302,7 @@
         "rating": 4.7,
         "id": 52,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":5,
-        "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "David Kim",
-        "chef_id": "5",
-        "year_of_experience": 2,
-        "number_of_recipes": 5,
-        "likes": 10,
-        "short_bio": "David Kim is a chef who has a passion for creating simple, healthy meals. He believes that food should be both delicious and nutritious, and he strives to create dishes that are both flavorful and healthy. His specialties include Korean and Japanese cuisine."
+        "chefrecipe":5
     },
     {
         "recipe_name": "Shrimp Po' Boy",
@@ -408,14 +317,7 @@
         "rating": 4.6,
         "id": 53,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":5,
-        "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "David Kim",
-        "chef_id": "5",
-        "year_of_experience": 2,
-        "number_of_recipes": 5,
-        "likes": 10,
-        "short_bio": "David Kim is a chef who has a passion for creating simple, healthy meals. He believes that food should be both delicious and nutritious, and he strives to create dishes that are both flavorful and healthy. His specialties include Korean and Japanese cuisine."
+        "chefrecipe":5
     },
     {
         "recipe_name": "BBQ Chicken Pizza",
@@ -430,14 +332,7 @@
         "rating": 4.5,
         "id": 54,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":5,
-        "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "David Kim",
-        "chef_id": "5",
-        "year_of_experience": 2,
-        "number_of_recipes": 5,
-        "likes": 10,
-        "short_bio": "David Kim is a chef who has a passion for creating simple, healthy meals. He believes that food should be both delicious and nutritious, and he strives to create dishes that are both flavorful and healthy. His specialties include Korean and Japanese cuisine."
+        "chefrecipe":5
     },
     {
         "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
@@ -474,14 +369,7 @@
         "rating": 4.6,
         "id": 62,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":6,
-        "chef_picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Amanda Chen",
-        "chef_id": "6",
-        "year_of_experience": 7,
-        "number_of_recipes": 30,
-        "likes": 70,
-        "short_bio": "Amanda Chen is a chef who has a passion for creating comfort food with a twist. She takes classic dishes and adds her own unique twist to create something new and exciting. Her specialties include American and Italian cuisine."
+        "chefrecipe":6
     },
     {
         "recipe_name": "Buffalo Chicken Dip",
@@ -496,14 +384,7 @@
         "rating": 4.7,
         "id": 63,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":6,
-        "chef_picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Amanda Chen",
-        "chef_id": "6",
-        "year_of_experience": 7,
-        "number_of_recipes": 30,
-        "likes": 70,
-        "short_bio": "Amanda Chen is a chef who has a passion for creating comfort food with a twist. She takes classic dishes and adds her own unique twist to create something new and exciting. Her specialties include American and Italian cuisine."
+        "chefrecipe":6
     },
     {
         "recipe_name": "Baked Mac and Cheese",
@@ -518,14 +399,7 @@
         "rating": 4.5,
         "id": 64,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":6,
-        "chef_picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Amanda Chen",
-        "chef_id": "6",
-        "year_of_experience": 7,
-        "number_of_recipes": 30,
-        "likes": 70,
-        "short_bio": "Amanda Chen is a chef who has a passion for creating comfort food with a twist. She takes classic dishes and adds her own unique twist to create something new and exciting. Her specialties include American and Italian cuisine."
+        "chefrecipe":6
     },
     {
         "recipe_name": "Slow Cooker Beef Stew",
@@ -562,14 +436,7 @@
         "rating": 4.7,
         "id": 72,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":7,
-        "chef_picture": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Tom Wilson",
-        "chef_id": "7",
-        "year_of_experience": 12,
-        "number_of_recipes": 80,
-        "likes": 150,
-        "short_bio": "Tom Wilson is a seasoned chef with over 12 years of experience in the culinary industry. He specializes in French cuisine and is known for his ability to create complex dishes with layers of flavor. He is passionate about using local, seasonal ingredients to create dishes that are both delicious and sustainable."
+        "chefrecipe":7
     },
     {
         "recipe_name": "Potato Salad",
@@ -584,14 +451,7 @@
         "rating": 4.3,
         "id": 73,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":7,
-        "chef_picture": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Tom Wilson",
-        "chef_id": "7",
-        "year_of_experience": 12,
-        "number_of_recipes": 80,
-        "likes": 150,
-        "short_bio": "Tom Wilson is a seasoned chef with over 12 years of experience in the culinary industry. He specializes in French cuisine and is known for his ability to create complex dishes with layers of flavor. He is passionate about using local, seasonal ingredients to create dishes that are both delicious and sustainable."
+        "chefrecipe":7
     },
     {
         "recipe_name": "BBQ Ribs",
@@ -606,14 +466,7 @@
         "rating": 4.8,
         "id": 74,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":7,
-        "chef_picture": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Tom Wilson",
-        "chef_id": "7",
-        "year_of_experience": 12,
-        "number_of_recipes": 80,
-        "likes": 150,
-        "short_bio": "Tom Wilson is a seasoned chef with over 12 years of experience in the culinary industry. He specializes in French cuisine and is known for his ability to create complex dishes with layers of flavor. He is passionate about using local, seasonal ingredients to create dishes that are both delicious and sustainable."
+        "chefrecipe":7
     },
     {
         "recipe_name": "Grilled Salmon",
@@ -650,14 +503,7 @@
         "rating": 4.4,
         "id": 82,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":8,
-        "chef_picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Linda Huang",
-        "chef_id": "8",
-        "year_of_experience": 4,
-        "number_of_recipes": 15,
-        "likes": 40,
-        "short_bio": "Linda Huang is a rising star in the culinary world. Despite having only 4 years of experience, she has already made a name for herself with her inventive and playful approach to cooking. She is passionate about exploring different cultures and cuisines, and loves to incorporate unexpected flavors and ingredients into her dishes."
+        "chefrecipe":8
     },
     {
         "recipe_name": "Burger",
@@ -672,14 +518,7 @@
         "rating": 4.7,
         "id": 83,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":8,
-        "chef_picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Linda Huang",
-        "chef_id": "8",
-        "year_of_experience": 4,
-        "number_of_recipes": 15,
-        "likes": 40,
-        "short_bio": "Linda Huang is a rising star in the culinary world. Despite having only 4 years of experience, she has already made a name for herself with her inventive and playful approach to cooking. She is passionate about exploring different cultures and cuisines, and loves to incorporate unexpected flavors and ingredients into her dishes."
+        "chefrecipe":8
     },
     {
         "recipe_name": "Buffalo Wings",
@@ -694,13 +533,6 @@
         "rating": 4.9,
         "id": 84,
         "image":"https://images.unsplash.com/photo-1506368249639-73a05d6f6488?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefrecipe":8,
-        "chef_picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chef_name": "Linda Huang",
-        "chef_id": "8",
-        "year_of_experience": 4,
-        "number_of_recipes": 15,
-        "likes": 40,
-        "short_bio": "Linda Huang is a rising star in the culinary world. Despite having only 4 years of experience, she has already made a name for herself with her inventive and playful approach to cooking. She is passionate about exploring different cultures and cuisines, and loves to incorporate unexpected flavors and ingredients into her dishes."
+        "chefrecipe":8
     }
 ]
